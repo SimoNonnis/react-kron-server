@@ -1,0 +1,23 @@
+{
+  "name": "react-kron-server",
+  "version": "1.0.0",
+  "description": "A json-server that powers the react-kron app",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimoNonnis/react-kron-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimoNonnis/react-kron-server/issues"
+  },
+  "homepage": "https://github.com/SimoNonnis/react-kron-server#readme",
+  "dependencies": {
+    "json-server": "^0.8.17"
+  }
+}
