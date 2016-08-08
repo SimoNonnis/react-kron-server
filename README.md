@@ -7,4 +7,5 @@ A json-server that powers the react-kron app
         npm install (or sudo npm install)
         npm start
 
-Open your browser on http://localhost:3000
+Open your browser on http://localhost:3000.
+The App is consuming a modified version of JSONplaceholder API served from this local server.
