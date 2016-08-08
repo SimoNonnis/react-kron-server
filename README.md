@@ -6,3 +6,5 @@ A json-server that powers the react-kron app
         cd  react-kron-server
         npm install (or sudo npm install)
         npm start
+
+Open your browser on http://localhost:3000
